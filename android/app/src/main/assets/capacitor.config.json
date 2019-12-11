@@ -1,0 +1,8 @@
+{
+  "appId": "com.myapp.trysqlite",
+  "appName": "TrySqlite",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
